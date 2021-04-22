@@ -1,0 +1,50 @@
+{
+    "Data" : {
+        "identity": 1,
+        "name1": "Nome1",
+        "name2": "Nome2",
+        "gender": "M",
+        "socialName": "socialName",
+        "birthday": 1,
+        "birthMonth": 1,
+        "birthYear": 2020,
+        "birthTime": null,
+        "nationality": 1,
+        "birthCity": "São Paulo",
+        "birthState": "SP",
+        "birthCountry": 1,
+        "digitalId": 123,
+        "originSystemId": 123,
+        "owner": 123,
+        "mandatorySystemId": 123,
+        "creationDate": null,
+        "lastUpdate": null,
+        "updateSystemId": null,
+        "upateUserId": null,
+        "digitalSignature": null
+    },
+    "Numbers" : [{
+        "identity": 0,
+        "numberType": 1,
+        "number": "137.175.747-01",
+        "verified": null
+    }],
+    "SysValues" : [{
+        "identity": 0,
+        "System": 1,
+        "Key": null,
+        "Value": null
+    }],
+    "Addresses" : [{
+        "identity": 0,
+        "addressType": 0,
+        "add1": null,
+        "add2": null,
+        "number": null,
+        "add3": null,
+        "zip": null,
+        "city": null,
+        "state": null,
+        "country": null
+    }]
+}
